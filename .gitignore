@@ -1,0 +1,4 @@
+/Targets/
+/Targets/STM32F429_Discovery
+*.bak
+*.o
